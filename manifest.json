@@ -3,7 +3,7 @@
     "short_name": "PWA Demo",
     "start_url": "index.html?homescreen=1",
     "display": "standalone",
-    "background_color": "#283954",
+    "background_color": "#db2804",
     "theme_color": "#283954",
     "orientation": "portrait",
     "icons": [
